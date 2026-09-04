@@ -1,0 +1,34 @@
+section,quantity,value,source
+paper 1,top 1% share 2016 -> 2025 (%),11.3 -> 30.0,"JRFM, confirmed nb03"
+paper 1,Hill alpha 2016 -> 2025 (repaired),"1.4669 -> 1.1413, p=0.0062",nb03
+paper 1,Gini 2016 -> 2025 (repaired),0.5879 -> 0.7186,nb03
+decomposition,compute equipment share change (pp),0.65,nb08 cell 4
+decomposition,designs compute share change (pp),10.27,nb08 cell 4
+decomposition,fabricates compute share change (pp),-0.2,nb08 cell 4
+decomposition,not digital share change (pp),-25.03,nb08 cell 4
+decomposition,operates compute share change (pp),9.78,nb08 cell 4
+decomposition,other digital share change (pp),4.51,nb08 cell 4
+attribution,designs compute: largest member,NVDA = 69% of the layer's gain,nb08 cell 5
+attribution,operates compute: largest member,GOOGL = 34% of the layer's gain,nb08 cell 5
+attribution,other digital: largest member,AAPL = 72% of the layer's gain,nb08 cell 5
+attribution,compute equipment: largest member,LRCX = 40% of the layer's gain,nb08 cell 5
+attribution,fabricates compute: largest member,MU = -199% of the layer's gain,nb08 cell 5
+attribution,Herfindahl of firm gains,0.0601,nb08 cell 3
+attribution,effective number of gaining firms,16.6,nb08 cell 3
+mechanism,"hyperscaler vs other tail, capex extra trend","+0.0139, p=0.0003",nb06
+mechanism,"tail vs everyone, capex extra trend","+0.0038, p=0.27",nb06
+mechanism,capex predicts share gain,"-0.115, p=0.067",nb06 bridge
+out of sample,fabricates share slope 1996-2015,"-0.186 pp/yr, p=0.0015",nb07
+out of sample,designs share slope 1996-2015,"-0.037 pp/yr, p=0.079",nb07
+out of sample,Intel share of top 100,5.19% (1996) -> 0.38% (2025),nb07
+hypotheses,H1 bit intensity vs tail (sector-neutral),"+0.299, p=0.0002 WRONG SIGN",nb05
+hypotheses,"H3 Gibrat, growth on size","+0.007, p=0.12, not rejected",nb04
+hypotheses,H4 firms in top 1% all ten years,"AAPL, MSFT only",nb04
+dating,hyperscaler capex slope 2008-2015,"+0.00413/yr, p=0.0022",nb09
+dating,designs capex slope 2008-2015,"-0.00737/yr, p=0.0102",nb09
+dating,fabricates capex slope 2008-2015,"+0.00105/yr, p=0.5976",nb09
+dating,rest of index capex slope 2008-2015,"+0.00267/yr, p=0.0",nb09
+calibration,hyperscaler vs utilities capex 2025,0.277 vs 0.398,nb09
+counter-case,Intel capex intensity 2008 -> 2025,0.138 -> 0.277,nb09
+counter-case,Intel share of index 2008 -> 2025,0.91% -> 0.29%,nb09
+leases,"hyperscaler asset lightness, reported vs ex-lease slope",see lease_adjusted_asset_lightness,nb09

@@ -1,0 +1,5 @@
+ticker,year,recovered_bn,reference_bn,ratio
+META,2021,894,935,0.956
+META,2019,546,585,0.933
+META,2017,469,512,0.916
+ELV,2021,111,113,0.985

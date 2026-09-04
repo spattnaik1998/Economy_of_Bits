@@ -1,0 +1,52 @@
+{
+  "run": "bits_07_stack",
+  "when": "2026-09-03T23:11:13",
+  "layers": {
+    "designs compute": [
+      "AMD",
+      "ANET",
+      "AVGO",
+      "CDNS",
+      "NVDA",
+      "QCOM",
+      "SNPS"
+    ],
+    "fabricates compute": [
+      "ADI",
+      "AMD",
+      "INTC",
+      "MCHP",
+      "MPWR",
+      "MU",
+      "NXPI",
+      "ON",
+      "QRVO",
+      "SWKS",
+      "TXN"
+    ],
+    "compute equipment": [
+      "AMAT",
+      "KLAC",
+      "LRCX",
+      "TER"
+    ],
+    "operates compute": [
+      "AMZN",
+      "GOOG",
+      "GOOGL",
+      "META",
+      "MSFT",
+      "ORCL"
+    ]
+  },
+  "tables": [
+    "coverage_1996_2025",
+    "firm_layers_measured",
+    "layer_share_trends_30y",
+    "layer_share_top100_30y",
+    "concentration_decomposition",
+    "top1_membership_by_year",
+    "capital_efficiency_by_layer",
+    "amd_event"
+  ]
+}

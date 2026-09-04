@@ -1,0 +1,6 @@
+layer,n_firms,total_pp,largest,largest_pp,share_from_largest,ex_largest_pp,second,ex_top2_pp
+designs compute,7,10.28,NVDA,7.09,0.69,3.18,AVGO,0.91
+operates compute,5,9.79,GOOGL,3.28,0.335,6.51,MSFT,3.24
+other digital,66,4.51,AAPL,3.26,0.723,1.25,TSLA,-1.19
+compute equipment,4,0.65,LRCX,0.26,0.399,0.39,KLAC,0.2
+fabricates compute,10,-0.2,MU,0.39,-1.99,-0.59,ADI,-0.69

@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite it as below."
+title: "Economy of Bits: analysis code for capital intensity and value capture in the S&P 500, 2008-2025"
+type: software
+authors:
+  - family-names: Pattnaik
+    given-names: Sarthak
+    orcid: "https://orcid.org/0009-0004-4994-4800"
+    affiliation: "Metropolitan College, Boston University"
+  - family-names: Jain
+    given-names: Chhayank
+    orcid: "https://orcid.org/0009-0006-6831-426X"
+    affiliation: "Metropolitan College, Boston University"
+  - family-names: Pinsky
+    given-names: Eugene
+    orcid: "https://orcid.org/0000-0002-3836-1851"
+    affiliation: "Metropolitan College, Boston University"
+    email: epinsky@bu.edu
+year: 2026
+license: MIT
+keywords:
+  - firm size distribution
+  - Pareto tail index
+  - concentration
+  - capital intensity
+  - intangible capital
+  - compute stack
+  - difference in differences

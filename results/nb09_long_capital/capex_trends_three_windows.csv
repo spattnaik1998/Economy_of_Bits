@@ -1,0 +1,13 @@
+group,window,first,last,slope,p
+designs,"2008-2015, before the paper's window",0.107,0.039,-0.00737,0.0102
+designs,"2016-2025, the paper's window",0.039,0.022,-0.00157,0.0
+designs,"2008-2025, all",0.107,0.022,-0.00294,0.0021
+fabricates,"2008-2015, before the paper's window",0.087,0.103,0.00105,0.5976
+fabricates,"2016-2025, the paper's window",0.134,0.145,0.0062,0.0
+fabricates,"2008-2025, all",0.087,0.145,0.00425,0.0
+hyperscaler,"2008-2015, before the paper's window",0.053,0.067,0.00413,0.0022
+hyperscaler,"2016-2025, the paper's window",0.082,0.277,0.01458,0.0
+hyperscaler,"2008-2025, all",0.053,0.277,0.01102,0.0
+rest of index,"2008-2015, before the paper's window",0.061,0.079,0.00267,0.0
+rest of index,"2016-2025, the paper's window",0.073,0.077,0.00045,0.0129
+rest of index,"2008-2025, all",0.061,0.077,0.00078,0.0002

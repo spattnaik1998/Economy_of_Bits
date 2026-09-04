@@ -1,0 +1,13 @@
+variable,contrast,sample,n,n_firms,base_trend,extra_trend,se,t_stat,p
+capex_intensity,hyperscaler vs other tail firms,tail only,81,9,-0.00115,0.01391,0.00386,3.6,0.0003
+capex_intensity,hyperscaler vs everyone else,all firms,3921,496,0.00259,0.01017,0.00356,2.86,0.0043
+capex_intensity,tail vs everyone else,all firms,3921,496,0.00263,0.00381,0.00344,1.11,0.2687
+capex_intensity,tail vs other digital firms,digital only,648,86,0.0055,0.00317,0.00545,0.58,0.5601
+asset_light,hyperscaler vs other tail firms,tail only,76,8,0.0028,-0.02632,0.00809,-3.25,0.0011
+asset_light,hyperscaler vs everyone else,all firms,4327,536,0.00286,-0.02638,0.006,-4.4,0.0
+asset_light,tail vs everyone else,all firms,4327,536,0.00286,-0.01466,0.00657,-2.23,0.0258
+asset_light,tail vs other digital firms,digital only,695,91,-0.00044,-0.01557,0.00599,-2.6,0.0093
+gross_margin,hyperscaler vs other tail firms,tail only,66,7,0.01068,-0.00717,0.00598,-1.2,0.2307
+gross_margin,hyperscaler vs everyone else,all firms,2873,389,0.00071,0.00281,0.00453,0.62,0.536
+gross_margin,tail vs everyone else,all firms,2873,389,0.00061,0.00545,0.00376,1.45,0.1463
+gross_margin,tail vs other digital firms,digital only,552,75,0.00167,0.0044,0.004,1.1,0.2717

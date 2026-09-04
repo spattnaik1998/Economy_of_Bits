@@ -1,0 +1,18 @@
+# Pinned to the versions the notebooks were executed under (Google Colab, Sep 2026).
+# pandas is pinned to the 2.x line: several notebooks index columns named `first`
+# and `last`, which collide with Series.first/.last in pandas < 3.0 — see ERRATA.md.
+pandas>=2.0,<3.0
+numpy>=1.24
+scipy>=1.10
+statsmodels>=0.14
+scikit-learn>=1.3
+matplotlib>=3.7
+requests>=2.31
+yfinance>=0.2.40
+pyarrow>=14.0
+python-dotenv>=1.0
+tqdm>=4.66
+
+# Only needed for the Clauset-Shalizi-Newman fits in the companion paper's code.
+# Note the parameter-range cap documented in ERRATA.md.
+powerlaw>=1.5

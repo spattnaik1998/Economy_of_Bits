@@ -1,0 +1,5 @@
+model,n,log_size_coef,log_size_p,BI_A_coef,BI_A_p,BI_A_x_size_coef,BI_A_x_size_p,BI_B_coef,BI_B_p,BI_B_x_size_coef,BI_B_x_size_p,platform_coef,platform_p,platform_x_size_coef,platform_x_size_p
+Gibrat baseline,3952,0.00723,0.1174,,,,,,,,,,,,
+with BI_A and its interaction,3442,0.00853,0.0872,0.00649,0.9544,0.00021,0.9635,,,,,,,,
+with BI_B and its interaction,2434,0.00888,0.1474,,,,,-0.00756,0.9568,0.00075,0.8952,,,,
+with platform and its interaction,3952,0.0056,0.2607,,,,,,,,,-0.11579,0.7164,0.00623,0.6253

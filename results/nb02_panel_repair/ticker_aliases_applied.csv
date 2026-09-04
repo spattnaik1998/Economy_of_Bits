@@ -1,0 +1,41 @@
+old,new,source
+ABC,COR,"seed, CIK-verified"
+ABMD,STLD,detector
+ALXN,MRNA,detector
+ANTM,ELV,detector
+ARG,LKQ,detector
+BLL,BALL,"seed, CIK-verified"
+BRK.B,BRK-B,detector
+BXLT,TDG,detector
+CELG,NOW,detector
+CTL,LUMN,detector
+CXO,TRMB,detector
+DISCA,WBD,"seed, CIK-verified"
+DISH,PANW,detector
+ENDP,REG,detector
+ETFC,POOL,detector
+EVHC,FTNT,detector
+FB,META,detector
+FLIR,CRL,detector
+FRC,AXON,detector
+HRS,LHX,detector
+HSP,UAL,detector
+INFO,MOH,detector
+JEC,J,detector
+KSU,EPAM,detector
+MXIM,TECH,detector
+NLOK,GEN,detector
+NLSN,TRGP,detector
+PEAK,DOC,detector
+PETM,SWKS,detector
+PKI,RVTY,detector
+RE,EG,detector
+RHT,TMUS,detector
+RVTY (PREVIOUSLY PKI),RVTY,detector
+STI,TFC,"seed, CIK-verified"
+TMK,GL,detector
+TSS,CDW,detector
+TWTR,ACGL,detector
+VAR,PTC,detector
+WLTW,WTW,detector
+XEC,TT,detector

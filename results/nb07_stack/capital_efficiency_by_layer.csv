@@ -1,0 +1,7 @@
+layer,n,median_gain,mean_capex,gain_per_capex_point
+compute equipment,3,1.337,0.031,43.13
+designs compute,7,1.269,0.028,45.32
+fabricates compute,7,-0.328,0.148,-2.22
+not digital,331,-0.627,0.101,-6.21
+operates compute,4,0.622,0.164,3.79
+other digital,36,-0.27,0.067,-4.03

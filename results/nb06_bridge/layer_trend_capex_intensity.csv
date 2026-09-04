@@ -1,0 +1,6 @@
+variable,layer,first,last,slope,p
+capex_intensity,designs compute,0.0709,0.0315,-0.00286,0.0
+capex_intensity,fabricates compute,0.0995,0.1543,0.00833,0.0
+capex_intensity,not digital,0.09,0.0947,0.002,0.0006
+capex_intensity,operates compute,0.0926,0.3867,0.02248,0.0007
+capex_intensity,other digital,0.0521,0.0497,0.0016,0.218

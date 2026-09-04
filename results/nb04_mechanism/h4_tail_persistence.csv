@@ -1,0 +1,4 @@
+group,size_2016,size_2025,in_both_endpoints,persistence_endpoint,mean_year_to_year_retention,ever_in,in_every_year
+top 1%,5,5,2,0.4,0.822,10,2
+top 5%,21,25,11,0.524,0.855,43,9
+top 10%,41,49,28,0.683,0.883,81,23

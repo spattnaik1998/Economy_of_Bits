@@ -1,0 +1,27 @@
+# Secrets — never commit API keys
+.env
+.env.*
+*.key
+secrets.*
+
+# Notebook and Python noise
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated output
+build/
+
+# Large regenerable intermediates
+*.parquet
+*.csv.gz
+data/
+outputs/
+economy_of_bits_*/
+bits_inputs*.zip
+
+# OS
+.DS_Store
+Thumbs.db

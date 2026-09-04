@@ -1,0 +1,5 @@
+model,n,n_firms,lag_capex_coef,lag_capex_p,lag_BI_coef,lag_BI_p,lag_gm_coef,lag_gm_p,lag_capex_x_digital_coef,lag_capex_x_digital_p
+capex only,3430,481,-0.1147,0.0672,,,,,,
+capex + bit intensity,2339,358,-0.1296,0.1725,0.0024,0.9191,,,,
+capex + gross margin,2379,364,-0.1093,0.2115,,,0.0833,0.3643,,
+"capex, and capex interacted with digital",3430,481,-0.1008,0.1521,,,,,-0.0779,0.4503

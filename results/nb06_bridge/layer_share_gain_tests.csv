@@ -1,0 +1,5 @@
+layer,n,median_gain,vs_non_digital_t,p
+designs compute,10,0.96,3.34,0.0085
+operates compute,5,0.743,8.54,0.0006
+fabricates compute,8,0.532,3.2,0.0146
+other digital,36,-0.304,1.52,0.1356

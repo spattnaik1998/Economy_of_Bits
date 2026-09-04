@@ -1,0 +1,5 @@
+metric,value
+corr_with_gics,0.19778184532833976
+within_firm_sd,0.16083651548460526
+between_firm_sd,0.9745077740872353
+share_never_change_quartile,0.5290581162324649

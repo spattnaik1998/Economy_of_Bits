@@ -1,0 +1,4 @@
+variable,group,first,last,slope_per_year,p_hac
+asset_light,digital,0.8694,0.8931,0.00218,0.0
+asset_light,rest,0.7184,0.7471,0.004,0.0001
+asset_light,tail,0.8454,0.6474,-0.01896,0.0
